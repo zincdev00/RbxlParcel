@@ -1,0 +1,9 @@
+{
+	"name": "Parcel",
+	"globIgnorePaths": [
+		"*.spec.lua"
+	],
+	"tree": {
+		"$path": "src"
+	}
+}

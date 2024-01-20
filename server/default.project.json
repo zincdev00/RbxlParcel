@@ -1,0 +1,9 @@
+{
+	"name": "ParcelServer",
+	"globIgnorePaths": [
+		"*.spec.lua"
+	],
+	"tree": {
+		"$path": "src"
+	}
+}
